@@ -1,4 +1,6 @@
-# Finetuning Pretrained on FAQ Dataset
+# LLM for FAQs for E-Commerce Site
+
+
 
 # tensorboard metrics
 
