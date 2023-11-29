@@ -33,7 +33,7 @@ def app():
 
     # batch = tokenizer(f"{question} ->: ", return_tensors='pt')
     # with torch.cuda.amp.autocast():
-        # output_tokens = model.generate(**batch, max_new_tokens=50)
+    #     output_tokens = model.generate(**batch, max_new_tokens=50)
 
     # response = tokenizer.decode(output_tokens[0], skip_special_tokens=True)
 
