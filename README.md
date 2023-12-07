@@ -61,13 +61,10 @@ Acknowledgments are extended to the developers of the FALCON-7B model, the Huggi
 
 ## Deployment
 
-A Streamlit application has been developed for local use, requiring a GPU with at least 16 gigabytes of video RAM (vRAM) for optimal performance.
-
-[Link to Streamlit App](#)
+A Streamlit application has been developed for local use, requiring a GPU with at least 16 gigabytes of video RAM (vRAM) for optimal performance. the app in this repository. checkout in streamlit-app dir
 
 ## Code and Resources
 
-- Code Repository on GitHub: [Link to GitHub Repository](https://github.com/balnarendrasapa/faq-llm)
 - Fine-tuned Model on Hugging Face Model Hub: [Link to Hugging Face Model](https://huggingface.co/bnsapa/faq-llm)
 - Kaggle Notebook for Walkthrough: [Link to Kaggle Notebook](https://www.kaggle.com/code/balnarendrasapa/fine-tuning-falcon-7b-with-faq-e-com-dataset)
 
